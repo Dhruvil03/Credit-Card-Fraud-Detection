@@ -16,8 +16,6 @@ The dataset used is the [Kaggle Credit Card Fraud Detection Dataset](https://www
 - Python
 - Pandas, NumPy
 - Scikit-learn
-- Matplotlib, Seaborn
-- Imbalanced-learn 
 
 ## 📈 Results
 
