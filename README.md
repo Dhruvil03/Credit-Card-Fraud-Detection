@@ -19,31 +19,6 @@ The dataset used is the [Kaggle Credit Card Fraud Detection Dataset](https://www
 - Matplotlib, Seaborn
 - Imbalanced-learn 
 
-## 🔍 Project Workflow
-
-1. **Data Preprocessing**:
-   - Checked for missing values
-   - Scaled `Amount` and `Time` features
-   - Split dataset into training and test sets
-
-2. **Exploratory Data Analysis (EDA)**:
-   - Distribution of classes
-   - Correlation heatmaps
-   - Class imbalance visualization
-
-3. **Model Training**:
-   - Logistic Regression
-   - Random Forest
-   - Support Vector Machine (SVM)
-   - XGBoost
-
-4. **Imbalance Handling**:
-   - Used **SMOTE** (Synthetic Minority Oversampling Technique)
-
-5. **Evaluation Metrics**:
-   - Confusion Matrix
-   - Precision, Recall, F1-Score
-
 ## 📈 Results
 
 - Best performing model achieved high recall while maintaining precision
