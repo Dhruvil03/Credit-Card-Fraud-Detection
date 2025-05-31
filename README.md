@@ -21,3 +21,6 @@ The dataset used is the [Kaggle Credit Card Fraud Detection Dataset](https://www
 
 - Best performing model achieved high recall while maintaining precision
 - Emphasized minimizing false negatives (undetected fraud)
+  
+ ![image](https://github.com/user-attachments/assets/d75a7722-ff6c-406c-89f4-fc5da87fa12d)
+
